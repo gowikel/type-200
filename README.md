@@ -24,6 +24,11 @@ handles real-time validation.
 - Icons: Nuxt Icon
 - State Management: useState / Composables
 
+## AI Usage
+
+AI is used in the project to generate designs, ideas, and some basic code-reviews. The code is
+manually handwritten (albeit some autocompletion with AI may still happen)
+
 ## 🎮 Game Mechanics & Behavior
 
 **The Core Loop**
