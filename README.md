@@ -31,7 +31,7 @@ manually handwritten (albeit some autocompletion with AI may still happen)
 
 ## Design
 
-[Link](https://gemini.google.com/share/e86be295a235)
+[Link](https://gemini.google.com/share/739f7c1fc302)
 
 **Typography:**
 
