@@ -47,21 +47,21 @@ manually handwritten (albeit some autocompletion with AI may still happen)
 
 Backgrounds
 
-- #1a1b26 (Deep Blue-Black - Main background)
-- #24283b (Lighter Blue-Black - Cards/Modals)
-- #414868 (Selection highlight)
+- `#1a1b26` (Deep Blue-Black - Main background)
+- `#24283b` (Lighter Blue-Black - Cards/Modals)
+- `#414868` (Selection highlight)
 
 Typography
 
-- #c0caf5 (Pale Blue-White - Main text)
-- #565f89 (Muted Blue-Grey - Untyped text / Labels)
-- #7aa2f7 (Bright Blue - Links / Focus)
+- `#c0caf5` (Pale Blue-White - Main text)
+- `#565f89` (Muted Blue-Grey - Untyped text / Labels)
+- `#7aa2f7` (Bright Blue - Links / Focus)
 
 Feedback / State
 
-- #9ece6a (Soft Green - Correct character)
-- #f7768e (Soft Red - Incorrect character)
-- #e0af68 (Orange/Yellow - The caret)
+- `#9ece6a` (Soft Green - Correct character)
+- `#f7768e` (Soft Red - Incorrect character)
+- `#e0af68` (Orange/Yellow - The caret)
 
 ## 🎮 Game Mechanics & Behavior
 
