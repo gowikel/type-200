@@ -29,6 +29,40 @@ handles real-time validation.
 AI is used in the project to generate designs, ideas, and some basic code-reviews. The code is
 manually handwritten (albeit some autocompletion with AI may still happen)
 
+## Design
+
+[Link](https://gemini.google.com/share/e86be295a235)
+
+**Typography:**
+
+- Primary Font (UI & Headers)
+  - Family: System Sans-Serif (`Inter`, `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto`, `sans-serif`)
+  - Usage: Navigation, Modals, Results, Buttons.
+- Code Font (The Game Area)
+  - Family: Monospace (`JetBrains Mono`, `Fira Code`, `Consolas`, `Monaco`, `monospace`)
+  - Usage: The typing text, live stats numbers.
+  - Critical: Must use `font-variant-ligatures: none;` to prevent confusion during typing.
+
+**Color Palette:**
+
+Backgrounds
+
+- #1a1b26 (Deep Blue-Black - Main background)
+- #24283b (Lighter Blue-Black - Cards/Modals)
+- #414868 (Selection highlight)
+
+Typography
+
+- #c0caf5 (Pale Blue-White - Main text)
+- #565f89 (Muted Blue-Grey - Untyped text / Labels)
+- #7aa2f7 (Bright Blue - Links / Focus)
+
+Feedback / State
+
+- #9ece6a (Soft Green - Correct character)
+- #f7768e (Soft Red - Incorrect character)
+- #e0af68 (Orange/Yellow - The caret)
+
 ## 🎮 Game Mechanics & Behavior
 
 **The Core Loop**
